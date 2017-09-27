@@ -1,0 +1,27 @@
+body{
+    padding-top: 30px;
+    background-color: #222;
+    color: white;
+}
+h1{
+    background-color: #fffff;
+    padding: 50px;
+    align-content: center;
+    text-align: center;
+}
+h2{
+    background: #737373;
+    padding: 20px;
+    align-content: center;
+    text-align: center;
+}
+form{
+    background:  #737373;
+    padding: 10px;
+    align-content: center;
+    color: black;
+    
+}
+input, iput{
+    text-align: center;
+}
